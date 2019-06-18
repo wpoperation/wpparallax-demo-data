@@ -1,1 +1,1 @@
-# wpparallax-demo-data
+# WPparallax Demo Data
